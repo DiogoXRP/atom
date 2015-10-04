@@ -29,7 +29,7 @@ A partir destes valores, é de notar que este tipo de programação compreende v
   
       Qual é então a resposta da XP para este tipo de método?
   
-  Com a criação de protótipos são evitados ou reduzidos alguns custos no desenvolvimento de **_features_** mais incertas.
+  Com a criação de prototipos e com o constante desenvolvimento da aplicação, tal dá ao projecto uma maior estabilidade no sentido em que o projecto é guiado consoante as necessidades actuais, assim o risco no desenvolvimento de **software não aproveitado** diminui, assim como o custo que o desenvolvimento desse **software não aproveitado** traria.
   
 #####**BRANCH TECHNIQUE - _workflow_**
 
