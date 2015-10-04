@@ -7,7 +7,7 @@
 #####**EXTREME PROGRAMMING**
 
   Pode descrever-se **_Extreme Programming_** (ou programação extrema, em português) como uma metodologia **_agile_** para equipas pequenas e médias de **_software developers_**, em que o software está em constante mudança.
-  Uma metodologia agil é toda a filosofia de desenvolvimento que dê mais valor à interação entre desenvolvedores (**developers**) e clientes, à flexibilidade na adaptação à mudança e ao *release* rápido de funcionalidades do que a um planeamento e documentação exaustivos ou a um contrato com o cliente. Então, é correto dizer que a **Extreme Programming** conta com cinco valores fundamentais, que são:
+  Uma metodologia **_agile_** é toda a filosofia de desenvolvimento que dê mais valor à interação entre desenvolvedores (**developers**) e clientes, à flexibilidade na adaptação à mudança e ao *release* rápido de funcionalidades do que a um planeamento e documentação exaustivos ou a um contrato com o cliente. Então, é correto dizer que a **Extreme Programming** conta com cinco valores fundamentais, que são:
   
   1. **Comunicação**
   2. **Simplicidade**
@@ -31,9 +31,10 @@ A partir destes valores, é de notar que este tipo de programação compreende v
   
   Com a criação de protótipos são evitados ou reduzidos alguns custos no desenvolvimento de **_features_** mais incertas.
   
-#####**BRANCH TECHNIQUE**
+#####**BRANCH TECHNIQUE - _workflow_**
 
-  Por forma a desenvolver um software que cumprisse as necessidades dos desenvolvedores, foi utilizada a clássica técnica denominada "GitHub flow".
+  Por forma a desenvolver um software que cumprisse as necessidades dos desenvolvedores, foi utilizada a clássica técnica denominada **"GitHub flow"**, onde as alterações são sempre propostas, num determinado branch, sendo que as mesmas são discutidas em *pull requests* antes de serem juntadas ao projeto/produto oficial. Convém referir que o projeto/produto oficial se encontra na branch "master"
+  Este workflow parece-nos bastante adequado, uma vez que são feitas dezenas de commits todas as semanas.
 
 
 
