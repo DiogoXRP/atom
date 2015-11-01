@@ -11,3 +11,7 @@ Sendo que esta, lista todas as *dependencies*, tais como dynamic link libraries 
 #####[DEPLOYMENT DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomOriginalDeploymentDiagram.jpg)
 
 Este diagrama mostra a arquitetura da aplicação **_Atom_**, onde para tal é representada a distribuição (*deployment*) de artefactos (software) para alvos de distribuição (*deployment targets*) denominados geralmente por nós (*nodes*).
+
+#####[COMPONENT DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomComponentDiagram.jpg)
+
+Este diagrama mostra os componentes, interfaces necessárias e providenciadas (*interfaces*), portas (*ports), bem como a relação entre elas.
