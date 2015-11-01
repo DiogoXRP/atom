@@ -14,4 +14,4 @@ Este diagrama mostra a arquitetura da aplicação **_Atom_**, onde para tal é r
 
 #####[COMPONENT DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomComponentDiagram.jpg)
 
-Este diagrama mostra os componentes, interfaces necessárias e providenciadas (*interfaces*), portas (*ports*), bem como a relação entre elas.
+Este diagrama mostra os componentes (*components, logical or physical*), interfaces necessárias e providenciadas (*interfaces*), portas (*ports*), bem como a relação entre elas.
