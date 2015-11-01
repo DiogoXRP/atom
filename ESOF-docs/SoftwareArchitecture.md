@@ -2,7 +2,7 @@
 
 Como resposta a este tópico, foram desenhados quatro diagramas, sendo estes os correspondentes ao "4+1 view model of software architecture", contudo o [*diagrama de casos de utilização*](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomUseCaseDiagram.jpg) foi desenhado na 2ª **recitation**.
 
-Um destes quatro diagramas é o [*diagrama de "deployment"*](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomDeploymentDiagram.jpg). Para este diagrama foi necessário recorrer a uma **_utility_** disponível na linha de comandos "Cross Tools" do **Visual Studio 2013**. Para tal foi corrida linha de comandos dentro da pasta do executável da aplicação **_Atom_** ("atom.exe"). A **_utility_** usada então para o efeito foi:
+Um destes quatro diagramas é o [*diagrama de "deployment"*](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomDeploymentDiagram.jpg). Para a realização deste diagrama foi necessário recorrer a uma **_utility_** disponível na linha de comandos "Cross Tools" do **Visual Studio 2013**. Para tal foi corrida a mesma linha de comandos dentro da pasta do executável da aplicação **_Atom_** ("atom.exe"). A **_utility_** usada então para o efeito foi:
 
 *dumpbin /dependents atom.exe*
 
