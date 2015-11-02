@@ -15,3 +15,7 @@ Este diagrama mostra a arquitetura da aplicação **_Atom_**, onde para tal é r
 #####[COMPONENT DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomComponentDiagram.jpg)
 
 Este diagrama mostra os componentes (*components - logical or physical*), interfaces necessárias e providenciadas (*interfaces*), portas (*ports*), bem como a relação entre elas.
+
+#####[ATIVITY DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomAtivityDiagram.jpg)
+
+Este diagrama é um diagrama de comportamento UML (*behavior UML*) pois demonstra o controlo do fluxo (*flow of control*) ou o fluxo de um dado objeto (*object flow*), dando para tal ênfase na sequência e condições do fluxo.
