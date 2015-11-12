@@ -23,5 +23,5 @@ Este diagrama é um diagrama de comportamento UML (*behavior UML*) pois demonstr
 #####[PACKAGE DIAGRAM](https://raw.githubusercontent.com/DiogoXRP/atom/master/ESOF-docs/AtomPackageDiagram.jpg)
 
 Este diagrama é um diagrama de estrutura UML (*structure UML*), mais conhecido por *Package Diagram*.
-Um *package* é um "namespace" usado para agrupar elementos de um dado software que estão, semanticamente, relacionados e devem ser "alterados" em conjunto. É então um mecanismo que organiza elementos em diversos grupos para tal providenciar uma melhor estrutura para uma dado modelo de sistema (*system model*) ou software.
+Um *package* é um "namespace" usado para agrupar elementos de um dado software que estão, semanticamente, relacionados e devem ser "alterados" em conjunto. É então um mecanismo que organiza elementos em diversos grupos para tal providenciar uma melhor estrutura para um dado modelo de sistema (*system model*) ou software.
 Em suma, um diagrama de packages demonstra os *packages* e **dependências** entre os mesmos.
