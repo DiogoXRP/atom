@@ -1,4 +1,4 @@
-##SOFTWARE VERIFICATION AND VALIDATION
+##SOFTWARE VERIFICATION AND VALIDATION (testing, bug reports, code inspection, etc..)
 
 #####VERIFICATION
 
@@ -21,13 +21,13 @@ No processo seguido pelo **ATOM**, é privilegiada a geração de testes o mais 
 Muitas vezes os testes são gerados antes até de o código ser desenvolvido. Isto dá ao programador e desenvolvedor uma maior clareza sobre o objectivo a atingir (*TDD - Test Driven Development*). 
 
 <dl>
-<dt>Seguindo Extreme Programming, o processo de desenvolvimento do software ATOM segue as seguintes **fases de teste**:</dt>
+<dt>Seguindo Extreme Programming, o processo de desenvolvimento do software ATOM segue as seguintes fases de teste:</dt>
 
-<dd>**Unit testing:**
+<dd> Unit testing:
 
 Estes testes são criados pelos programadores e desenvolvedores da aplicação e  têm como objetivo detectar e eliminar qualquer tipo de defeitos funcionais e estruturais desenvolvidos pelos programadores.</dd>
 
-<dd>**Acceptance testing:**
+<dd> Acceptance testing:
 
 Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (*requirements*).</dd>
 </dl>
