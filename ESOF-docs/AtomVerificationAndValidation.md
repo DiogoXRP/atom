@@ -38,3 +38,18 @@ Testes gerados normalmente com o cliente para garantir que o software está dent
 </dl>
 
 Sendo Extreme Programming um processo que segue as metodologias Agile toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
+
+O **ATOM**, uma vez seguindo o método Extreme Programming, valoriza muito processos de *software inspection*, evitando desta forma o impacto e o custo de possíveis erros e sendo geralmente uma forma mais rápida e eficaz de efetuar a pesquisa desses erros, comparativamente com a realização de testes.
+
+<dl>
+<dt>Neste processo, são utilizados vários tipos de reviews, dentro dos quais são de destacar *Refactoring*, *Pair Programming* e *Team Inspection*, processos estes que são os mais utilizados e aqueles que promovem uma maior rapidez e também uma maior partilha de conhecimento entre os vários programadores e desenvolvedores do **ATOM**.</dt>
+
+<dd> Refactoring:
+Processo de reestruturação de código, que aumentam a facilidade de revisão do código e reduz a sua complexidade. Esta funcionalidade é crucial num método como Extreme Programming, ou em qualquer outro método incremental, uma vez que facilita imenso a adição de novas funcionalidades ao programa.</dd>
+
+<dd> Pair Programming:
+Todo o código é escrito com dois programadores a olhar para um ecrã, e apenas utilizando um teclado e um rato. Cada um dos programadores tem uma tarefa específica neste processo. Um dos parceiros, chamado de driver, escreve o código, enquanto que o outro, o observer, está a fazer revisão do código à medida que este é escrito e pensa também se a estratégia que está a ser seguida será a melhor, dando ideias para melhorar o código.</dd>
+
+<dd> Team Inspection:
+Tipo de Software Review no qual o código é revisto pelo programador que escreveu o código e por um ou mais desenvolvedores. Com este tipo de reviews é possível identificar problemas e erros o mais cedo possível e também com maior rapidez. Tal como disse Eric S. Raymond, "Given enough eyeballs, all bugs are shallow" ou seja, se existirem suficientes reviewers, todos os problemas são fácies de resolver.</dd>
+</dl>
