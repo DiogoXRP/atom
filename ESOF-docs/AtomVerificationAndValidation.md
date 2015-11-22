@@ -1,9 +1,9 @@
 ##SOFTWARE VERIFICATION AND VALIDATION
 
 
-#####VERIFICATION
+#####VERIFICATION                                               #####VALIDATION
 
-*Are we building the product right?*
+*Are we building the product right?*       ##VS               *Are we building the right product?*
 
 TESTING
 
