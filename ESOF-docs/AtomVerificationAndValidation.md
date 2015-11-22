@@ -19,10 +19,12 @@ Muitas vezes os testes são gerados antes até de o código ser desenvolvido. Is
 
 Seguindo Extreme Programming, o processo de desenvolvimento do software ATOM segue as seguintes **fases de teste**:
 
-Unit testing:
+**Unit testing:**
+
 Estes testes são criados pelos programadores e desenvolvedores da aplicação e  têm como objetivo detectar e eliminar qualquer tipo de defeitos funcionais e estruturais desenvolvidos pelos programadores.
 
-Acceptance testing:
+**Acceptance testing:**
+
 Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (*requirements*).
 
 Sendo Extreme Programming um processo que segue as metodologias Agile toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
