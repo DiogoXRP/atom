@@ -30,9 +30,7 @@ Estes testes são criados pelos programadores e desenvolvedores da aplicação e
 
 <dd> Acceptance testing:
 
-Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (*requirements*).</dd>
+Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (requirements).</dd>
 </dl>
-
----
 
 Sendo Extreme Programming um processo que segue as metodologias Agile toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
