@@ -37,14 +37,14 @@ Estes testes são criados pelos programadores e desenvolvedores da aplicação e
 Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (requirements).</dd>
 </dl>
 
-Sendo Extreme Programming um processo que segue as metodologias Agile toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
+Sendo *Extreme Programming* um processo que segue as metodologias *Agile* toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
 
-O **ATOM**, uma vez seguindo o método Extreme Programming, valoriza muito processos de *software inspection*, evitando desta forma o impacto e o custo de possíveis erros e sendo geralmente uma forma mais rápida e eficaz de efetuar a pesquisa desses erros, comparativamente com a realização de testes.
+O **ATOM**, uma vez seguindo o método *Extreme Programming*, valoriza muito processos de *software inspection*, evitando desta forma o impacto e o custo de possíveis erros e sendo geralmente uma forma mais rápida e eficaz de efetuar a pesquisa desses erros, comparativamente com a realização de testes.
 
 <dl>
-<dt>Neste processo, são utilizados vários tipos de reviews, dentro dos quais são de destacar *Refactoring*, *Pair Programming* e *Team Inspection*, processos estes que são os mais utilizados e aqueles que promovem uma maior rapidez e também uma maior partilha de conhecimento entre os vários programadores e desenvolvedores do **ATOM**.</dt>
+<dt>Neste processo, são utilizados vários tipos de reviews, dentro dos quais são de destacar Refactoring, Pair Programming e Team Inspection, processos estes que são os mais utilizados e aqueles que promovem uma maior rapidez e também uma maior partilha de conhecimento entre os vários programadores e desenvolvedores do **ATOM**.</dt>
 
-<dd> *Refactoring:*
+<dd> Refactoring:
 Processo de reestruturação de código, que aumentam a facilidade de revisão do código e reduz a sua complexidade. Esta funcionalidade é crucial num método como Extreme Programming, ou em qualquer outro método incremental, uma vez que facilita imenso a adição de novas funcionalidades ao programa.</dd>
 
 <dd> Pair Programming:
