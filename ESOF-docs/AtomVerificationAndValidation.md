@@ -42,7 +42,7 @@ Sendo *Extreme Programming* um processo que segue as metodologias *Agile* toda e
 O **ATOM**, uma vez seguindo o método *Extreme Programming*, valoriza muito processos de *software inspection*, evitando desta forma o impacto e o custo de possíveis erros e sendo geralmente uma forma mais rápida e eficaz de efetuar a pesquisa desses erros, comparativamente com a realização de testes.
 
 <dl>
-<dt>Neste processo, são utilizados vários tipos de reviews, dentro dos quais são de destacar Refactoring, Pair Programming e Team Inspection, processos estes que são os mais utilizados e aqueles que promovem uma maior rapidez e também uma maior partilha de conhecimento entre os vários programadores e desenvolvedores do **ATOM**.</dt>
+<dt>Neste processo, são utilizados vários tipos de reviews, dentro dos quais são de destacar Refactoring, Pair Programming e Team Inspection, processos estes que são os mais utilizados e aqueles que promovem uma maior rapidez e também uma maior partilha de conhecimento entre os vários programadores e desenvolvedores do ATOM.</dt>
 
 <dd> Refactoring:
 Processo de reestruturação de código, que aumentam a facilidade de revisão do código e reduz a sua complexidade. Esta funcionalidade é crucial num método como Extreme Programming, ou em qualquer outro método incremental, uma vez que facilita imenso a adição de novas funcionalidades ao programa.</dd>
