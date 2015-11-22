@@ -20,15 +20,17 @@ Em Extreme Programming ([Modelo de processo de software](https://github.com/Diog
 No processo seguido pelo **ATOM**, é privilegiada a geração de testes o mais cedo possivel. Assim o custo para encontrar e resolver os bugs que surgem será reduzido.
 Muitas vezes os testes são gerados antes até de o código ser desenvolvido. Isto dá ao programador e desenvolvedor uma maior clareza sobre o objectivo a atingir (*TDD - Test Driven Development*). 
 
-Seguindo Extreme Programming, o processo de desenvolvimento do software ATOM segue as seguintes **fases de teste**:
+<dl>
+<dt>Seguindo Extreme Programming, o processo de desenvolvimento do software ATOM segue as seguintes **fases de teste**:</dt>
 
-**Unit testing:**
+<dd>**Unit testing:**
 
-Estes testes são criados pelos programadores e desenvolvedores da aplicação e  têm como objetivo detectar e eliminar qualquer tipo de defeitos funcionais e estruturais desenvolvidos pelos programadores.
+Estes testes são criados pelos programadores e desenvolvedores da aplicação e  têm como objetivo detectar e eliminar qualquer tipo de defeitos funcionais e estruturais desenvolvidos pelos programadores.</dd>
 
-**Acceptance testing:**
+<dd>**Acceptance testing:**
 
-Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (*requirements*).
+Testes gerados normalmente com o cliente para garantir que o software está dentro dos objectivos propostos pelo cliente (*requirements*).</dd>
+</dl>
 
 ---
 
