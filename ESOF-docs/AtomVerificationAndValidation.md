@@ -39,6 +39,10 @@ Testes gerados normalmente com o cliente para garantir que o software está dent
 
 Sendo *Extreme Programming* um processo que segue as metodologias *Agile* toda esta fase de testes e de criação de código é revista por varios colaboradores do software desenvolvido o que faz com que o codigo criado seja bem estruturado e perceptivel aos diversos colaboradores.
 
+---
+
+######*CODE INSPECTION* + *BUG REPORTS*
+
 O **ATOM**, uma vez seguindo o método *Extreme Programming*, valoriza muito processos de *software inspection*, evitando desta forma o impacto e o custo de possíveis erros e sendo geralmente uma forma mais rápida e eficaz de efetuar a pesquisa desses erros, comparativamente com a realização de testes.
 
 <dl>
