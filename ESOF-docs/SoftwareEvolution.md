@@ -1,8 +1,8 @@
-####EVOLUTION
+##EVOLUTION
 
 ======
 
-##New Feature
+####New Feature
 
 ------
 
@@ -12,12 +12,12 @@ A ideia passa por aplicar uma "caixa" à volta de uma tag (normalmente usadas em
 
 ------
 
-#Comportamento Anterior
+######Comportamento Anterior
 
 []()
 
 ------
 
-#Comportamento Posterior
+######Comportamento Posterior
 
 []()
